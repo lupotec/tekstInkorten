@@ -1,5 +1,5 @@
 # tekstInkorten<br><br>
-include_once('');
+include_once('./inkorten.php');
 
 
 $inhoud = "Je lange tekst hihoi jio jio joi joi joik joi jok
